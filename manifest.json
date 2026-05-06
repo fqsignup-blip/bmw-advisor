@@ -1,0 +1,24 @@
+{
+  "name": "BMW Advisor",
+  "short_name": "BMW Advisor",
+  "description": "Controle de comissões e metas — Service Advisor",
+  "start_url": "/bmw-advisor/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
